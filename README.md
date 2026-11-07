@@ -10,4 +10,4 @@ The portfolio uses fictional records for Grapevine Hospital Management System.
 - [Portfolio 4](portfolio-4-nosql/)
 - [Portfolio 5](portfolio-5-distributed-cloud/)
 
-[Final summary](Chibuzor_Anyaegbu_301913385_FinalSummary.md) · [PDF](Chibuzor_Anyaegbu_301913385_FinalSummary.pdf)
+[Final summary](Chibuzor_Anyaegbu_301913385_FinalSummary.md)
